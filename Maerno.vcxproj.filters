@@ -19,10 +19,21 @@
     <Filter Include="Source Files\libs">
       <UniqueIdentifier>{156c88c5-4651-4f77-85fe-f2175cfd6aa1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\libs\generator">
+      <UniqueIdentifier>{d0b1b166-6af5-4124-a22c-320f5a347fc6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Source Files\core</Filter>
     </ClCompile>
+    <ClCompile Include="generator.cpp">
+      <Filter>Source Files\libs\generator</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="generator.h">
+      <Filter>Source Files\libs\generator</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
