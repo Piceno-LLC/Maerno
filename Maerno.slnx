@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Maerno.vcxproj" Id="70871683-5fb1-4a3c-b6bf-9b7466ebcfb9" />
+</Solution>
